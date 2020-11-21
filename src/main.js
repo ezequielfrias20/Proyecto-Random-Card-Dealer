@@ -41,12 +41,6 @@ window.onload = function() {
         <div class="bottom">
           <div class="symbol-bottom ${suice[suiceRandom].color}">${suice[suiceRandom].simbolo}</div>
         </div>
-  </div>
-  
-  
-  
-  
-  
-  
+  </div>  
   `;
 };
